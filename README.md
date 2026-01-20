@@ -1,4 +1,4 @@
-# Hi, I'm Farrukh 👋
+# Hi, I'm Farrukh 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=435&lines=Android+Developer;Python+Enthusiast;Building+clean+solutions" alt="Typing SVG" />
@@ -29,13 +29,13 @@ I focus on building clean, efficient applications with **Kotlin** and **Python**
 
 ---
 
+---
+
 ### 📫 Connect
-<a href="mailto:yourname@gmail.com">
+<a href="mailto:farrukhburiev001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">
 </a>
 &nbsp;
-<a href="https://t.me/your_username">
+<a href="https://t.me/farrukhburievvv">
   <img src="https://img.shields.io/badge/Telegram-26A6E1?style=flat-square&logo=telegram&logoColor=white" height="28">
 </a>
-
-<br>
