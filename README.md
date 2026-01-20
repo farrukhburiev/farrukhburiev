@@ -29,13 +29,5 @@ I focus on building clean, efficient applications with **Kotlin** and **Python**
 
 ---
 
----
-
 ### 📫 Connect
-<a href="mailto:farrukhburiev001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">
-</a>
-&nbsp;
-<a href="https://t.me/farrukhburievvv">
-  <img src="https://img.shields.io/badge/Telegram-26A6E1?style=flat-square&logo=telegram&logoColor=white" height="28">
-</a>
+[Telegram](https://t.me/farrukhburievvv) &nbsp;&middot;&nbsp; [Gmail](mailto:farrukhburiev001@gmail.com)
