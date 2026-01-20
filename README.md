@@ -1,37 +1,41 @@
-# Hi, I'm Farrukh <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/WUl9H6I7lC1U7dY88v/giphy.gif" width="35px">
+# Hi, I'm Farrukh 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A970FF&width=435&lines=Android+Developer;Python+Enthusiast;Building+clean+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=435&lines=Android+Developer;Python+Enthusiast;Building+clean+solutions" alt="Typing SVG" />
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/du3J3Msy8S7Y8C570w/giphy.gif" align="right" width="150">
-
-I focus on building clean, efficient applications. I love the logic of **Kotlin** and the versatility of **Python**. 
+I focus on building clean, efficient applications with **Kotlin** and **Python**. I enjoy exploring the intersection of mobile development and AI.
 
 ---
 
-### 🚀 Tech Stack
+### ⚡ Skills
+**Development**  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="24"> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24"> &nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="24"> &nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="24">
+
+**Tools**  
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24"> &nbsp;
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" height="24">
+
+---
+
+### 📊 Activity
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=farrukhburiev&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=94a3b8&count_private=true" height="150" />
 </p>
 
 ---
 
-### 🎨 Activity & Contribution
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrukhburiev&show_icons=true&theme=nord&hide_border=true" height="150" />
-</p>
+### 📫 Connect
+<a href="mailto:yourname@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28">
+</a>
+&nbsp;
+<a href="https://t.me/your_username">
+  <img src="https://img.shields.io/badge/Telegram-26A6E1?style=flat-square&logo=telegram&logoColor=white" height="28">
+</a>
 
-**My Contribution Snake:**  
-*(This snake eats my daily contributions!)*  
-![Snake animation](https://github-user-contribution-chart-snake-alpha.vercel.app/api/snake?github_user=farrukhburiev&outputs=svg)
-
----
-
-### 📫 Let's Chat
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farrukhburiev001@gmail.com) • [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat-square&logo=telegram&logoColor=white)](https://t.me/farrukhburievvv) • [Portfolio](#)
-
-<img src="https://capsule-render.vercel.app/view?type=rect&color=00000000&height=2" width="100%">
+<br>
